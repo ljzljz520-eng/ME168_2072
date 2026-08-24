@@ -1,0 +1,6 @@
+class_id,title,kind,slot,coach,level,capacity
+c001,Power Circuit,group,morning,Mira,intermediate,18
+c002,Calm Mobility,group,lunch,Jun,beginner,20
+c003,Strength Lab,private,evening,Ravi,advanced,1
+c004,Cardio Pulse,group,evening,Sia,intermediate,24
+c005,Recovery Flow,private,lunch,Noa,beginner,1

@@ -1,0 +1,4 @@
+member_id,name,goals,slot,coach_rating,package
+m001,Ada,"strength,mobility",morning,4.8,private-10
+m002,Lin,"cardio",evening,4.2,group-unlimited
+m003,Bo,"mobility,stress",lunch,4.7,group-10
