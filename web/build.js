@@ -1,0 +1,1 @@
+const fs=require('fs');fs.mkdirSync('dist',{recursive:true});fs.writeFileSync('dist/index.html','<!doctype html><title>Gym Course Recommendations</title><main><h1>Gym Course Recommendations</h1><p>Local preference-based recommendations.</p></main>');
